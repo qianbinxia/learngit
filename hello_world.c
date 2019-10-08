@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello World master!/n");
+    printf("Hello World master and feature1 merged!/n");
 
     return 0;
 
